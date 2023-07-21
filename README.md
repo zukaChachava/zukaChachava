@@ -12,7 +12,7 @@
 <br>
 <br>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zukaChachava&layout=compact&theme=tokyonight" />
+<img align="right"  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zukaChachava&layout=compact&theme=tokyonight" />
 
 <br>
 <br>
@@ -41,3 +41,9 @@
 <img align="left" src="https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript" />
 
 <img align="left" src="https://img.shields.io/badge/rust-%23323330.svg?style=for-the-badge&logo=rust&logoColor=orange" />
+
+<img align="left" src="https://img.shields.io/badge/Docker-%23323330.svg?style=for-the-badge&logo=docker" />
+
+<img align="left" src="https://img.shields.io/badge/SQL-%23323330.svg?style=for-the-badge&logo=SQL&logoColor=orange" />
+
+<img align="left" src="https://img.shields.io/badge/cypher-%23323330.svg?style=for-the-badge&logo=cypher&logoColor=orange" />
