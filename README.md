@@ -1,10 +1,19 @@
-# Hi there, I'm Zura! 👋
+```
+                    __      __  ______  ____    ____    __  __  ____
+                    /\ \  __/\ \/\  _  \/\  _`\ /\  _`\ /\ \/\ \/\  _`\
+                    \ \ \/\ \ \ \ \ \L\ \ \,\L\_\ \,\L\_\ \ \ \ \ \ \L\ \
+                    \ \ \ \ \ \ \ \  __ \/_\__ \\/_\__ \\ \ \ \ \ \ ,__/
+                    \ \ \_/ \_\ \ \ \/\ \/\ \L\ \/\ \L\ \ \ \_\ \ \ \/
+                    \ `\___x___/\ \_\ \_\ `\____\ `\____\ \_____\ \_\
+                        '\/__//__/  \/_/\/_/\/_____/\/_____/\/_____/\/_/
 
+```
 
-<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=zukaChachava&show_icons=true&theme=tokyonight" />
+# I am zura 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-zura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zurab-chachava-332b15231/)](https://www.linkedin.com/in/zurab-chachava-332b15231/) [![Facebook Badge](https://img.shields.io/badge/-zura-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/zu.ra.969300)](https://www.facebook.com/zu.ra.969300/) [![Gmail Badge](https://img.shields.io/badge/-chachavazuka@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chachavazuka@gmail.com)](mailto:chachavazuka@gmail.com)
 
-<img align="right"  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zukaChachava&layout=compact&theme=tokyonight" />
+<img align="left"  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zukaChachava&layout=compact&theme=tokyonight"  />
 
 <br>
 <br>
@@ -14,10 +23,11 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
-
-Tools
----
+## Tools
 
 <img align="left" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
 
@@ -33,9 +43,7 @@ Tools
 
 <img align="left" src="https://img.shields.io/badge/angular-%23323330.svg?style=for-the-badge&logo=angular&logoColor=red" /> <br/>
 
-
 <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> <br/>
-
 
 <img align="left" src="https://img.shields.io/badge/Docker-%23323330.svg?style=for-the-badge&logo=docker" /><br/>
 
@@ -48,3 +56,9 @@ Tools
 <img align="left" src="https://img.shields.io/badge/nethereum-%23323330.svg?style=for-the-badge&logo=nethereum" />
 
 <img align="left" src="https://img.shields.io/badge/web3.js-%23323330.svg?style=for-the-badge&logo=web3.js" /><br>
+
+---
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zukaChachava&theme=dracula&area=true)](https://github.com/zukaChachava/)
+
+
