@@ -44,7 +44,9 @@ Passionate software engineer specializing in Advanced C# Development for backend
 
 <img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 
-<img align="left" src="https://img.shields.io/badge/angular-%23323330.svg?style=for-the-badge&logo=angular&logoColor=red" /> <br/>
+<img align="left" src="https://img.shields.io/badge/angular-%23323330.svg?style=for-the-badge&logo=angular&logoColor=red" /> 
+
+<img align="left" src="https://img.shields.io/badge/Node-%2320232a.svg?style=for-the-badge&logo=nodedotjs&logoColor=green" /><br/>
 
 <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> <br/>
 
