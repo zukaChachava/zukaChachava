@@ -50,7 +50,9 @@ Passionate software engineer specializing in Advanced C# Development for backend
 
 <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> <br/>
 
-<img align="left" src="https://img.shields.io/badge/Docker-%23323330.svg?style=for-the-badge&logo=docker" /><br/>
+<img align="left" src="https://img.shields.io/badge/Docker-%23323330.svg?style=for-the-badge&logo=docker" />
+
+<img align="left" src="https://img.shields.io/badge/Jenkins-%23323330.svg?style=for-the-badge&logo=jenkins" /><br/>
 
 <img align="left" src="https://img.shields.io/badge/SQL-%23323330.svg?style=for-the-badge&logo=SQL&logoColor=orange" />
 
