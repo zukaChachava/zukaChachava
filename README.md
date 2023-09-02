@@ -60,7 +60,7 @@ Passionate software engineer specializing in Advanced C# Development for backend
 
 <img align="left" src="https://img.shields.io/badge/solidity-%23323330.svg?style=for-the-badge&logo=solidity" />
 
-<img align="left" src="https://img.shields.io/badge/nethereum-%23323330.svg?style=for-the-badge&logo=nethereum" />
+<img align="left" src="https://img.shields.io/badge/nethereum-%23323330.svg?style=for-the-badge&logo=ethereum" />
 
 <img align="left" src="https://img.shields.io/badge/web3.js-%23323330.svg?style=for-the-badge&logo=web3.js" /><br>
 
