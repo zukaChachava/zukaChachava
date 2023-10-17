@@ -9,7 +9,7 @@
 
 ```
 
-# I am zura 👋
+# I am Zuka 👋
 <p>
 Passionate software engineer specializing in Advanced C# Development for backend solutions, alongside expertise in frontend technologies (React && Angular) and Web3. Exploring low-level languages like Rust. 
 </p>
