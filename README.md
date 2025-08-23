@@ -1,20 +1,9 @@
-```
-                    __      __  ______  ____    ____    __  __  ____
-                    /\ \  __/\ \/\  _  \/\  _`\ /\  _`\ /\ \/\ \/\  _`\
-                    \ \ \/\ \ \ \ \ \L\ \ \,\L\_\ \,\L\_\ \ \ \ \ \ \L\ \
-                    \ \ \ \ \ \ \ \  __ \/_\__ \\/_\__ \\ \ \ \ \ \ ,__/
-                    \ \ \_/ \_\ \ \ \/\ \/\ \L\ \/\ \L\ \ \ \_\ \ \ \/
-                    \ `\___x___/\ \_\ \_\ `\____\ `\____\ \_____\ \_\
-                        '\/__//__/  \/_/\/_/\/_____/\/_____/\/_____/\/_/
-
-```
-
-# I am Zuka 👋
+# Hi, I am Zuka 👋
 <p>
-Passionate software engineer specializing in Advanced C# Development for backend solutions, alongside expertise in frontend technologies. Exploring low-level languages like Rust. 
+I am a versatile software engineer with a proven ability to adapt and excel in various technical environments. My experience spans backend and frontend development, with a strong foundation in C#. I have successfully applied my skills in diverse domains, including banking and gambling, where I have delivered innovative and reliable software solutions. In addition to high-level development, I am also passionate about low-level programming and have hands-on experience with the Zig programming language. My broad technical expertise and problem-solving capabilities enable me to contribute effectively to a wide range of projects and challenges.
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-zura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zurab-chachava-332b15231/)](https://www.linkedin.com/in/zurab-chachava-332b15231/) [![Facebook Badge](https://img.shields.io/badge/-zura-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/zu.ra.969300)](https://www.facebook.com/zu.ra.969300/) [![Gmail Badge](https://img.shields.io/badge/-chachavazuka@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chachavazuka@gmail.com)](mailto:chachavazuka@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin_zura-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zurab-chachava-332b15231/)](https://www.linkedin.com/in/zurab-chachava-332b15231/) [![X Badge](https://img.shields.io/badge/X-@chachavazuka-000000?style=flat-square&logo=twitter&logoColor=white&labelColor=000000)](https://x.com/chachavazuka) [![Gmail Badge](https://img.shields.io/badge/-chachavazuka@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chachavazuka@gmail.com)](mailto:chachavazuka@gmail.com)
 
 <img align="left"  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zukaChachava&layout=compact&theme=tokyonight"  />
 
@@ -36,7 +25,7 @@ Passionate software engineer specializing in Advanced C# Development for backend
 
 <img align="left" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /> <br/>
 
-<img align="left" src="https://img.shields.io/badge/rust-%23323330.svg?style=for-the-badge&logo=rust&logoColor=orange" /><br/>
+<img align="left" src="https://img.shields.io/badge/zig-%23323330.svg?style=for-the-badge&logo=zig&logoColor=orange" /><br/>
 
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
@@ -46,13 +35,11 @@ Passionate software engineer specializing in Advanced C# Development for backend
 
 <img align="left" src="https://img.shields.io/badge/Node-%2320232a.svg?style=for-the-badge&logo=nodedotjs&logoColor=green" /><br/>
 
-<img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> 
-
 <img align="left" src="https://img.shields.io/badge/Docker-%23323330.svg?style=for-the-badge&logo=docker" /><br/>
 
 <img align="left" src="https://img.shields.io/badge/SQL-%23323330.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=orange" />
 
-<img align="left" src="https://img.shields.io/badge/cypher-%23323330.svg?style=for-the-badge&logo=neo4j&logoColor=orange" /><br>
+<br/>
 
 ---
 
