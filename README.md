@@ -36,8 +36,8 @@
 name:       Zuka Chachava
 role:       Software Engineer
 focus:      [ Backend Systems, Low-Level Programming, Concurrency Primitives ]
-domains:    [ Banking, iGaming ]
-languages:  [ C#, Zig, TypeScript, Go, Rust ]
+domains:    [ Banking, iGaming, Booking ]
+languages:  [ C#, Zig, TypeScript]
 ```
 
 ---
